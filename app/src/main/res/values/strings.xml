@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zyla</string>
+
+    <string-array name="title">
+        <item>Album</item>
+        <item>Artist</item>
+    </string-array>
+
+
+</resources>
